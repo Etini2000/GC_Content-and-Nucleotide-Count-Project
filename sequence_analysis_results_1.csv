@@ -1,0 +1,11 @@
+Organism Name,Sequence ID,Sequence Length,GC Content,A Count,C Count,T Count,G Count
+Buchnera aphidicola,NR_074154.1,1457,53.81,365,325,308,459
+Borrelia burgdorferi,NR_025816.1,1440,54.1,360,335,301,444
+Clostridium perfringens,NR_074258.1,1478,64.82,292,426,228,532
+Bacteroides fragilis,NR_074464.1,1508,49.73,409,312,349,438
+Escherichia coli,NR_024570.1,1450,54.62,366,329,289,463
+Bacillus subtilis,NR_024683.1,1471,51.87,395,324,313,439
+Pseudomonas aeruginosa,NR_026078.1,1537,54.07,392,351,314,480
+Bifidobacterium longum,NR_044709.1,1504,49.4,401,318,336,425
+Mycobacterium tuberculosis,NR_112204.1,1486,55.45,363,354,294,470
+Streptomyces coelicolor,NR_025409.1,1486,54.71,373,352,300,461
